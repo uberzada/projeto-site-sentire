@@ -1,14 +1,9 @@
 /* ================================================================
-   STYLE.CSS — SITE DA PSICÓLOGA
-   
-   COMO EDITAR:
    - Seção "VARIÁVEIS GLOBAIS" controla todas as cores e fontes
    - Cada seção está identificada com comentários em MAIÚSCULAS
    ================================================================ */
-
-
 /* ----------------------------------------------------------------
-   VARIÁVEIS GLOBAIS — Edite aqui para mudar cores e fontes
+   VARIÁVEIS GLOBAIS
    ---------------------------------------------------------------- */
 :root {
   /* CORES PRINCIPAIS */
